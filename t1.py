@@ -1,2 +1,2 @@
-Print("Vishal")
+Print('Vishal')
 print('Dada')
